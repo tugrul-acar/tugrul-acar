@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 💼 Software Engineer at **TÜBİTAK BİLGEM YTE**, focused on backend and application development.
+- 💼 Software Engineer at **TÜBİTAK BİLGEM YTE**, focused on backend development.
 - 🎓 B.Sc. in **Computer Engineering** from **Hacettepe University** — GPA: **3.41 / 4.00**.
 - ☕ Experienced with **Java**, **Spring Framework**, **PostgreSQL**, Git, and software development workflows.
 - 🌐 Building modern web and mobile applications with **React** and **React Native**.
